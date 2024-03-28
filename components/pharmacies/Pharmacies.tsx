@@ -5,7 +5,7 @@ import CannabisPharmacy from "@/components/pharmacies/CannabisPharmacy";
 export default function Pharmacies() {
   return (
     <section className={"flex w-full flex-col items-start"} id={"pharmacies"}>
-      return <SectionHeading>Utah Medical Cannabis Pharmacies</SectionHeading>
+      <SectionHeading>Utah Medical Cannabis Pharmacies</SectionHeading>
       <ul className={"flex list-none flex-col gap-9 p-0"}>
         <CannabisPharmacy
           name={"Dragonfly Wellness"}
