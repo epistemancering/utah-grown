@@ -22,6 +22,7 @@ export default function Page() {
           className={"block h-auto w-full"}
           height={1186}
           width={3300}
+          priority
           src={"/TopHeaderImage@2x.png"}
           sizes={"100vw"}
           alt={"Utah Landscape background"}
