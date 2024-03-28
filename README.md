@@ -6,4 +6,3 @@ Notable judgment calls I made:
 
 - Chrome considers the PDF to be 2,200 pixels wide, so I faithfully treated it as what the page should look like in a viewport 2,200 pixels wide, which means my version is scaled up compared to the live version.
 - I followed the style guide faithfully even though its colors don't quite match.
-# utah-grown
