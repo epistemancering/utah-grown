@@ -4,7 +4,9 @@ export default function AnchorLink(props: {
 }) {
   return (
     <a
-      className={"text-greentwo no-underline hover:underline xl:text-2xl"}
+      className={
+        "text-lg text-greentwo no-underline hover:underline xl:text-2xl"
+      }
       href={props.href}
     >
       {props.children}

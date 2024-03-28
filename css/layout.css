@@ -1,17 +1,21 @@
 @tailwind utilities;
 @font-face {
+  font-display: swap;
   font-family: "Proxima Nova Regular";
   src: url("./ProximaNovaRegular.woff2");
 }
 @font-face {
+  font-display: swap;
   font-family: "Proxima Nova Semibold";
   src: url("./ProximaNovaSemibold.woff2");
 }
 @font-face {
+  font-display: swap;
   font-family: "Proxima Nova Bold";
   src: url("./ProximaNovaBold.woff2");
 }
 @font-face {
+  font-display: swap;
   font-family: "Proxima Nova Extrabold";
   src: url("./ProximaNovaExtrabold.woff2");
 }
